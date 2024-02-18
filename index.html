@@ -1,0 +1,45 @@
+<!-- 
+    | AULA 01 - AUDIOBOOK |
+        *Estrutura da página*
+
+    ! + enter = estrutura básica do html
+ -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Linkando o css ao html -->
+    <link rel="stylesheet" href="./style.css">
+    <!-- link do site Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+
+    <div class="container-aplicativo">
+        <img src="./images/dom-casmurro.jpeg" alt="">
+        <div id="informacoes-faixa">
+            <p id="capitulo">Capítulo 1</p>
+            <p id="nome-autor">Machado de Assis</p>
+        </div>
+            
+        <!-- tag "audio" possibilita a inserção de áudio na página -->
+        <audio id="audio-capitulo" src="./books/dom-casmurro/1.mp3"></audio>
+
+        <!-- botões -->
+        <div id="container-botoes">
+            <button id="anterior" class="bi bi-skip-backward-fill"></button>
+            <button id='play-pause' class="bi bi-play-circle-fill"></button>
+            <button id='proximo' class="bi bi-skip-forward-fill"></button>
+        </div>
+    </div>
+
+    <!-- TAG JAVASCRIPT 
+    OBS: quando inserida no final do "body" é carregada por último, dessa forma faz com que a página carregue mais rápido para o usuário e ameniza a sensação de lentidão -->
+    <script src="./script.js"></script>
+
+
+</body>
+</html>
