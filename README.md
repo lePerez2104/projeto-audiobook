@@ -31,4 +31,4 @@ Você também pode clonar este repositório para sua máquina local:
 ## Protótipo
 Acesse o protótipo do projeto e experimente você mesmo:
 <br>
-https://projeto-audiobook.vercel.app/
+https://projeto-audiobook-two.vercel.app/
