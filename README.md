@@ -1,6 +1,6 @@
 # Dom Casmurro - Audiobook
 Este projeto é um player de audiobook baseado no livro *Dom Casmurro* de Machado de Assis. Ele permite que os usuários ouçam os capítulos do livro em formato de áudio, com controles de navegação simples como tocar/pausar, avançar e retroceder entre os capítulos.
-![Projeto Audiobook](./images/Projeto%20Audiobook.png)
+![Projeto Audiobook](./images/Projeto-Audiobook.png)
 
 ## Índice
 - [Sobre o projeto](#sobre-o-projeto)
