@@ -25,7 +25,7 @@ Este projeto foi desenvolvido com o intuito de facilitar a audição do livro *D
 ## Clonar repositório
 Você também pode clonar este repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/dom-casmurro-audiobook.git
+   git clone https://github.com/lePerez2104/projeto-audiobook.git
    ```
 
 ## Protótipo
