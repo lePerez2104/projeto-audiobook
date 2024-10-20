@@ -8,6 +8,7 @@ Este projeto é um player de audiobook baseado no livro *Dom Casmurro* de Machad
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Clonar repositório](#clonar-repositório)
+- [Protótipo](#protótipo)
 
 ## Sobre o projeto
 Este projeto foi desenvolvido com o intuito de facilitar a audição do livro *Dom Casmurro*. O aplicativo web oferece uma interface simples, onde os usuários podem navegar entre os capítulos sem dificuldade. O design é responsivo e intuitivo, utilizando ícones de controle de mídia e uma estética agradável, inspirada em tons de roxo.
